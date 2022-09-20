@@ -2,6 +2,8 @@
 
 You can download the Desktop Linux software [here](https://github.com/thegoldgoat/toccami_linux/releases/tag/v1.0).
 
+You can download the Android mobile app [here](https://play.google.com/store/apps/details?id=com.andreasomaini.toccami).
+
 ## Usage
 
 1. Download the release [here](https://github.com/thegoldgoat/toccami_linux/releases/tag/v1.0)
